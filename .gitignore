@@ -1,0 +1,6 @@
+data/leads.db
+exports/
+__pycache__/
+*.pyc
+.env
+mnt/

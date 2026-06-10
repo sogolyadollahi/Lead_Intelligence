@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pandas
+python-multipart
+pydantic
+openai
+httpx
+streamlit
