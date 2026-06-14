@@ -181,3 +181,7 @@ Carol Johnson,,RetailNow,
 - Add Celery + Redis for async batch processing
 - Wrap enricher to support multiple AI providers
 - Add webhook support for CRM push (HubSpot, Salesforce)
+
+## Demo Video
+
+[▶ Watch Demo](demo/demo.mp4)
